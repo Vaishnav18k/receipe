@@ -10,11 +10,23 @@ Intuitive UI: Clean, responsive design ensuring seamless navigation and usabilit
 🚀 Project Details
 This project is developed as part of the Naan Mudhalvan Smartbridge initiative, aimed at fostering innovation and skill development through technology-driven solutions.
 
+👥 Team Information
+Team ID: SWTID1741163012154617
+Team Size: 5
+Team Members:
+
+Team Leader: Vaishnav K
+Team Member: Bharath V
+Team Member: Karthick A
+Team Member: Sadhasivam A
+Team Member: Sivanintha Perumal M
+
 📚 Tech Stack
 Frontend: React.js, Tailwind CSS
 State Management: React Hooks
 APIs: Recipe data integration (future scope)
 Version Control: Git, GitHub
+
 📧 Contact
 For any queries or collaboration, feel free to reach out!
 
